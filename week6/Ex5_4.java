@@ -3,7 +3,7 @@ package week6;
 public class Ex5_4 {
 
 	public static void main(String[] args) {
-		System.out.println("20161450 ÀÌ»õº®");
+		System.out.println("20161450 Ã€ÃŒÂ»ÃµÂºÂ®");
 		int temp;
 		int [] a = new int [] {8,5,2,3,6};
 		for(int i=0; i<a.length-1;i++) {
