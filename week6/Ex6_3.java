@@ -3,7 +3,7 @@ package week6;
 public class Ex6_3 {
 
 	public static void main(String[] args) {
-		System.out.println("20161450 ÀÌ»õº®");
+		System.out.println("20161450 Ã€ÃŒÂ»ÃµÂºÂ®");
 		
 		String gender = "female";
 		fnGender(gender);
@@ -12,9 +12,9 @@ public class Ex6_3 {
 	}
 	static void fnGender(String gender) {
 		if(gender=="female") {
-			System.out.println("¿©ÀÚ");
+			System.out.println("Â¿Â©Ã€Ãš");
 		}else if(gender=="male") {
-			System.out.println("³²ÀÚ");
+			System.out.println("Â³Â²Ã€Ãš");
 		}
 	}
 
