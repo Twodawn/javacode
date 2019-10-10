@@ -3,16 +3,16 @@ package week6;
 public class Ex6_4 {
 
 	public static void main(String[] args) {
-		System.out.println("20161450 ÀÌ»õº®");
+		System.out.println("20161450 ì´ìƒˆë²½");
 		
 		double x,y,area;
 		int idx; 
 		x = 10; y = 20; idx = 1;
 		area = fn_area(idx,x,y);
-		System.out.println("»ç°¢Çü ¸éÀû = "+area);
+		System.out.println("ì‚¬ê°í˜• ë©´ì  = "+area);
 		idx = 2;
 		area = fn_area(idx,x,y);
-		System.out.println("»ï°¢Çü ¸éÀû = "+area);
+		System.out.println("ì‚¼ê°í˜• ë©´ì  = "+area);
 	}
 	static double fn_area(int a,double b, double c) {
 		double result = 0;
