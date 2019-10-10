@@ -3,7 +3,7 @@ package week6;
 public class Ex6_2 {
 
 	public static void main(String[] args) {
-		System.out.println("20161450 ÀÌ»õº®"); 
+		System.out.println("20161450 Ã€ÃŒÂ»ÃµÂºÂ®"); 
 		
 		float num = 10.0f;
 		System.out.println("num = "+num);
